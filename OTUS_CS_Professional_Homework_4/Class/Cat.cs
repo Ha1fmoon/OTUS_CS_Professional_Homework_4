@@ -1,4 +1,4 @@
-namespace OTUS_CS_Professional_Homework_4;
+namespace OTUS_CS_Professional_Homework_4.Class;
 
 public class Cat : Feline, ICloneable
 {

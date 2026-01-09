@@ -1,4 +1,4 @@
-using OTUS_CS_Professional_Homework_4;
+using OTUS_CS_Professional_Homework_4.Class;
 
 Console.WriteLine("Create original objects:");
 var tiger = new Tiger("Tiger", 5, 8.5, 1);
